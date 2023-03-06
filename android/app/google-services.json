@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1075586011018",
+    "project_id": "docter-315fc",
+    "storage_bucket": "docter-315fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075586011018:android:754dc1f0c896ef75c40273",
+        "android_client_info": {
+          "package_name": "com.complete.womenscare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075586011018-9b68dtaf08s35vcekocjkg4sq3l2e5np.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArossNls-6AUwda8hy_6iQ2Di-P4Kzny4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075586011018-9b68dtaf08s35vcekocjkg4sq3l2e5np.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
